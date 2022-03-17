@@ -58,6 +58,12 @@ body {
   letter-spacing: 2px;
 }
 
+.landing-paragraph {
+  text-align: left !important;
+  border-left: 1px solid #d3d3d3;
+  margin-left: 5%;
+}
+
 /* projects */
 
 #github .button {
@@ -80,4 +86,9 @@ body {
 #github .button:hover {
   border: 2px solid #1ebba3;
   cursor: pointer;
+}
+
+.card:hover {
+  margin-top: -5px;
+  transition: 0.2s;
 }
