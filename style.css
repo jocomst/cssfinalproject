@@ -61,7 +61,7 @@ body {
 .landing-paragraph {
   text-align: left !important;
   border-left: 1px solid #d3d3d3;
-  margin-left: 5%;
+  margin-left: 15%;
   animation: 1s ease-out 0s 1 slideInFromLeft;
 }
 .home-descrip {
